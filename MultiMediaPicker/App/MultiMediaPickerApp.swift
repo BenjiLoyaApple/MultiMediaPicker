@@ -11,7 +11,7 @@ import SwiftUI
 struct MultiMediaPickerApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            NativeMediaPicker()
         }
     }
 }
